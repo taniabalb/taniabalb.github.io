@@ -1,0 +1,12 @@
+h2{
+    display: flex;
+    justify-content: center;
+}
+body{
+    background-color: #b8ff96;
+}
+p{
+    display: flex;
+    justify-content:center;
+    font-family: Courgette;
+}
