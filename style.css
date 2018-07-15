@@ -1,0 +1,36 @@
+body{
+    background-color:#ffff99;
+}
+.row{   
+    font-family:courgette;
+    background-color:black;
+    color:#ffff99;
+    font-size:20px;
+    display: flex;
+    justify-content:space-around;
+}
+.nm{
+    font-family:Lobster;
+}
+.headshot{
+    width:20%;   
+}
+.mid{
+    background-color:#bfd8cd;
+    color:#ffff99;
+    align-items:center;
+    font-size:50px;
+    margin-top:5px;
+    margin-bottom:5px;
+    justify-content:space-around;
+}
+.aboutme{
+    border:1px;
+    background-color: #ffff99;
+}
+img{
+    width:1000px;
+}
+.headshot{
+    border-radius: 50%;
+}
